@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorreiosWs2WebAPICore", "CorreiosWs2WebAPICore\CorreiosWs2WebAPICore.csproj", "{618EEE66-2194-4438-BD03-D8F106FF74A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618EEE66-2194-4438-BD03-D8F106FF74A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618EEE66-2194-4438-BD03-D8F106FF74A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618EEE66-2194-4438-BD03-D8F106FF74A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618EEE66-2194-4438-BD03-D8F106FF74A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEDFE74E-A04B-4F31-B48C-256107B11D06}
+	EndGlobalSection
+EndGlobal
